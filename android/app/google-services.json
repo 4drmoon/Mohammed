@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959843869341",
+    "project_id": "test1-4ee21",
+    "storage_bucket": "test1-4ee21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959843869341:android:59dc74c46726fc0ec46a74",
+        "android_client_info": {
+          "package_name": "com.flutterflow.chartaudit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959843869341-k21b2e1cqbognh28rl9bf7pa6vcv2pbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwaPr1yXBb_uDF-jFucHReywTDwc-nD9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959843869341-k21b2e1cqbognh28rl9bf7pa6vcv2pbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
